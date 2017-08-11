@@ -1,8 +1,8 @@
 <section class="footer">
-    <footer>
-        <div class = "footer_div">  
-        <nav class="cover-navigation navigation--social">
-          <ul class="navigation">
+  <footer>
+    <div class="footer_div">
+      <nav class="cover-navigation navigation--social">
+        <ul class="navigation">
 
           {% if site.social.linkedin %}
           <!-- Linkedin -->
@@ -12,9 +12,7 @@
               <span class="label">Github</span>
             </a>
           </li>
-          {% endif %}
-
-          {% if site.social.github %}
+          {% endif %} {% if site.social.github %}
           <!-- Github -->
           <li class="navigation__item_social">
             <a href="https://github.com/{{site.social.github}}" title="Github" target="_blank">
@@ -22,9 +20,7 @@
               <span class="label">Github</span>
             </a>
           </li>
-          {% endif %}
-          
-          {% if site.social.twitter %}
+          {% endif %} {% if site.social.twitter %}
           <!-- Twitter -->
           <li class="navigation__item_social">
             <a href="http://twitter.com/{{site.social.twitter}}" title="@{{site.social.twitter}}" target="_blank">
@@ -32,9 +28,7 @@
               <span class="label">Twitter</span>
             </a>
           </li>
-          {% endif %}
-
-          {% if site.social.gplus %}
+          {% endif %} {% if site.social.gplus %}
           <!-- Google Plus -->
           <li class="navigation__item_social">
             <a href="https://plus.google.com/{{site.social.gplus}}" rel="author" title="Google+" target="_blank">
@@ -42,9 +36,7 @@
               <span class="label">Google Plus</span>
             </a>
           </li>
-          {% endif %}
-
-          {% if site.social.mail %}
+          {% endif %} {% if site.social.mail %}
           <!-- Email -->
           <li class="navigation__item_social">
             <a href="mailto:{{site.social.mail}}" title="Contact me">
@@ -54,18 +46,18 @@
           </li>
           {% endif %}
 
-          </ul>
-        </nav>
+        </ul>
+      </nav>
 
-        </div>
+    </div>
 
-        <div class = "footer_div">  
-           <p class="copyright text-muted">
-            Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} Theme by <a href="http://baixin.io/">leopardpan</a> |
-            </p>
-        	<div align="right">
-    			<link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css">
-        </div>
-        <div>
-    </footer>
+    <div class="footer_div">
+      <p class="copyright text-muted">
+        Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} Theme by <a href="http://baixin.io/">leopardpan</a>        |
+      </p>
+      <div align="right">
+        <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css">
+      </div>
+      <div>
+  </footer>
 </section>
