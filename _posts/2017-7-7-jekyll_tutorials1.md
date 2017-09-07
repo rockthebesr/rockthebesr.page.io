@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a Personal Blog Using Jekyll And Github Page
+title: Buidling a personal blog with Jekyll And Github Page
 date: 2017-07-07
 tags: Blog   
 ---

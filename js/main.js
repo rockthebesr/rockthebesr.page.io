@@ -38,7 +38,7 @@ $(document)
 
     var typed = new Typed("#typedDescription", {
       strings: [
-        "A software engineer", "A web developer", "A cat lover", "A pianist and guitar player", "And always a learner"
+        "A student at UBC", "A software engineer :)"
       ],
       typeSpeed: 60,
       backSpeed: 40,

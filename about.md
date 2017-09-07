@@ -5,9 +5,9 @@ title: About me
 
 A Computer Science student at UBC
 <p>
-A front end developer
+A software engineer
 <p>
-A cat lover
+A learner
 <p> 
 
 {% include comments.html %}

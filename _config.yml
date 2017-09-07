@@ -1,8 +1,9 @@
 # Basic
-title: rockthebesr
+title: Rock's website
+blogName: Rock's blog
 subtitle: Rock Luo, Vancouver
 description: YOCO <br> (you only code once) 
-avatarTitle: Eh...Hello!
+avatarTitle: Hello!
 avatarDesc: 
 url: "http://rockthebesr.github.io"
 
@@ -42,7 +43,7 @@ nav:
     #- {title: All, description: archive, url: '/archive'}   
     #- {title: Tags, description: tags, url: '/tags'}      
     #- {title: About, description: about, url: '/about'}     
-
+    - {title: Projects, description: projects, url: '/2017/09/projects_portfolio/'}
     - {title: Github, description: github, url: 'https://github.com/rockthebesr'}   
     - {title: Linkedin, description: linkedin, url: 'https://www.linkedin.com/in/shiqiluo/'}      
     
@@ -51,5 +52,3 @@ nav:
 gems: [jekyll-paginate]
 paginate: 20
 paginate_path: "page/:num/"
-
-
