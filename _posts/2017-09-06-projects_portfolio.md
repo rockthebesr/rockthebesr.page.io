@@ -9,7 +9,7 @@ A brief description of the projects I have done or am working on.
 
 This page is frequently updating!
 
-###Rocking Chess
+### Rocking Chess
 Currently in progress. An online chess player. 
 
 An user can :
@@ -24,14 +24,14 @@ An user can :
 
 [Github](https://github.com/rockthebesr/rocking-chess)
 
-###Rock's Web Chat
+### Rock's Web Chat
 An online real time chat application. Built with Node.js, Express.js, and socket.io
 
 [rockswebchat.herokuapp.com](rockswebchat.herokuapp.com)
 
 [Github](https://github.com/rockthebesr/RocksWebChat)
 
-###Phocas Food Restaurant
+### Phocas Food Restaurant
 A fast food chain using dummy data. The project has two user classes that include employees and customers.
 
 A customer can create an online order for himself/herself by providing the necessary information.
@@ -41,21 +41,21 @@ An employee can login using his/her name and employee ID. An employee can then m
 [Github](https://github.com/rockthebesr/PhocasFoodRestaurant)
 
 
-###FTP server and client
+### FTP server and client
 This was for learning how sockets work...
 
 The [FTP server](https://github.com/rockthebesr/FTP-Server) is written in C.
 
 THe [FTP client](https://github.com/rockthebesr/FTP-Client) is written in Java.
 
-###DNS Resolver
+### DNS Resolver
 A DNS resolver is a local server that stores a central database of DNS nameservers and manages DNS requests for all the clients on your network.
 
 Written in Java.
 
 [Github](https://github.com/rockthebesr/DNS-Resolver)
 
-###Phocas Comic Book
+### Phocas Comic Book
 A website that allows users to upload and share comics. 
 
 Used technologies include Node.js, Express.js, mongodb and jade tempaltes.
@@ -64,7 +64,7 @@ Used technologies include Node.js, Express.js, mongodb and jade tempaltes.
 
 [Github](https://github.com/rockthebesr/PhocasComicBook)
 
-###Two-player Pacman
+### Two-player Pacman
 The classic game Pacman, but this time in two player version.
 
 Used java AWT for the ui.
@@ -73,7 +73,7 @@ Developed unit tests.
   
 [Github](https://github.com/rockthebesr/Snake)
 
-###Snake Game
+### Snake Game
 The classic snake game written in Java.
 
 Used Abstract Window Toolkit (AWT) for the GUI.
